@@ -1,3 +1,3 @@
-FROM xenial:latest
+FROM alpine:latest
 
 MAINTAINER malli
